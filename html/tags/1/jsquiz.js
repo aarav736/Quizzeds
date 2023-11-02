@@ -4,7 +4,7 @@
       choices: ["em", "br", "img", "meta"],
       correctAnswer: 0
     }, {
-      question: "Which symbol is used in empty tags?",
+      question: "Which symbol is used in closing tags?",
       choices: ["/", ":", "?", ";"],
       correctAnswer: 0
     }, {
