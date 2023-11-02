@@ -1,12 +1,12 @@
 (function() {
     var questions = [{
       
-      question: "What is 238+131?",
-      choices: [345, 308, 320, 369, 222],
+      question: "What is 2.38+13.1?",
+      choices: [15.5, 30.8, 15.2, 15.48, 15.22],
       correctAnswer: 3
     }, {
-      question: "What is 130+297?",
-      choices: [192, 435, 427, 272, 340],
+      question: "What is 1.30+29.7?",
+      choices: [31.10, 31.8, 31, 31.4, 31.2],
       correctAnswer: 2
     }, {
       question: "What is 123+232?",
